@@ -1,4 +1,6 @@
+<div align="center">
 <img src="https://media.tenor.com/B6qhD35ucO8AAAAd/bloodcartier.gif" alt="Анимация"/>
+</div>
 
 <h1>Привет, я Алексей 👋</h1>
 
