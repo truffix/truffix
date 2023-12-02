@@ -1,5 +1,5 @@
-<div align="center">
-<img src="https://media.tenor.com/B6qhD35ucO8AAAAd/bloodcartier.gif" alt="Анимация"/>
+<div align="left">
+<img src="https://media.tenor.com/B6qhD35ucO8AAAAd/bloodcartier.gif" alt="Анимация" width="450"/>
 </div>
 
 <h1>Привет, я Алексей 👋</h1>
