@@ -31,8 +31,8 @@
 <h2>Контакты</h2>
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/ditengm](https://t.me/atryfv))
-[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](atryfv@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/atryfv)
+[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:atrtfv@gmail.con)
 
 </div>
 
